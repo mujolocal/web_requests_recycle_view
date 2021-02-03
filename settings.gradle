@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "web_requests_and_recycle_view"
